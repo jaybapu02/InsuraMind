@@ -193,7 +193,7 @@ http://localhost:8501
 
 ### Jaychandra Das
 
-B.Tech Student | Machine Learning Enthusiast | Python Developer
+B.Tech Student | Machine Learning Enthusiast | Python Developer | Tech Explorer
 
 ---
 
